@@ -6,12 +6,12 @@ AI Visionaries is a curated knowledge base highlighting the pioneers, builders, 
 
 ## Overview
 
-This repository organizes AI thought leaders into four categories:
+Click through to access detailed profiles of AI Visionaries in each category:
 
-1. **The Pioneers** – Foundational figures whose research and ideas laid the groundwork for AI and computer science.  
-2. **The Builders** – Innovators driving the development, infrastructure, and applications of AI today.  
-3. **The Futurists** – Visionaries predicting and shaping the future impact of AI on society, technology, and humanity.  
-4. **The Ethicists** – Experts focused on responsible AI, fairness, and the societal implications of intelligent systems.
+- **[The Pioneers](01-The-Pioneers.md)** – Foundational AI minds.  
+- **[The Builders](02-The-Builders.md)** – Innovators building AI systems.  
+- **[The Futurists](03-The-Futurists.md)** – Visionaries shaping AI’s future.  
+- **[The Ethicists](04-The-Ethicists.md)** – Experts on AI ethics and societal impact. 
 
 Each category contains detailed Markdown files with:
 
@@ -31,7 +31,7 @@ README.md
 
 ---
 
-## Playlists
+## YouTube Podcast Playlists
 
 - **[The Pioneers](https://youtube.com/playlist?list=PLlFPjzM8yiEiOhYII5dCre7i0AhQb0uNM&si=Pg24XqZ7lZ5Yak3B)** – Foundational AI minds.  
 - **[The Builders](#)** – Innovators building AI systems.  
