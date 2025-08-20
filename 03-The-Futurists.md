@@ -2,7 +2,7 @@
 
 This document provides detailed profiles of AI thinkers shaping the future of technology, society, and intelligence. These individuals explore what is possible and predict the trajectory of AI development.
 
-**Playlist:** [AI Visionaries: The Futurists](https://www.youtube.com/watch?v=qy58R-qBm9c&list=PLlFPjzM8yiEjezMjmtzPsOHYFdEYNPAOJ&pp=gAQB)  <!-- Replace with actual playlist URL if available -->
+**Playlist:** [AI Visionaries: The Futurists](https://www.youtube.com/playlist?list=PLlFPjzM8yiEjezMjmtzPsOHYFdEYNPAOJ)  <!-- Replace with actual playlist URL if available -->
 
 ---
 
