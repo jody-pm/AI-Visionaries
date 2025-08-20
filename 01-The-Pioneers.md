@@ -2,7 +2,7 @@
 
 This document provides detailed profiles of the pioneering minds featured in the *AI Visionaries: The Pioneers* playlist. These individuals laid the foundations of artificial intelligence, computer science, and modern computational theory.
 
-**Playlist:** [AI Visionaries: The Pioneers](https://www.youtube.com/watch?v=RyKkfFLLju8&list=PLlFPjzM8yiEiOhYII5dCre7i0AhQb0uNM)
+**Playlist:** [AI Visionaries: The Pioneers](https://youtube.com/playlist?list=PLlFPjzM8yiEiOhYII5dCre7i0AhQb0uNM&si=KIt9fRCbebCnvmWK)
 
 ---
 
